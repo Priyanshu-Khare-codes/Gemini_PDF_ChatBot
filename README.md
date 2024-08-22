@@ -21,15 +21,6 @@ The Gemini PDF Chatbot is a Streamlit application that allows users to interact 
 - **Python**: Programming language
 
 
-## Requirements
-
-- Python 3.7 or higher
-- Streamlit
-- LangChain
-- LlamaParse
-- FAISS
-- Google Generative AI
-- dotenv
 
 
 
