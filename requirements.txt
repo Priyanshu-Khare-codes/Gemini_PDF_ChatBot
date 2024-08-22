@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain-community
+PyPDF2
+chromadb
+faiss-cpu
+langchain_google_genai
+llama-index-core 
+llama-parse 
+llama-index-readers-file
